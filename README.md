@@ -1,3 +1,6 @@
+[![build and test of java proyect](https://github.com/pedrosalvo04/practica-1-github/actions/workflows/main.yml/badge.svg)](https://github.com/pedrosalvo04/practica-1-github/actions/workflows/main.yml)
+
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
